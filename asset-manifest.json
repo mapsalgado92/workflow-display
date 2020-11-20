@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/workflow-display/static/css/main.69971e0a.chunk.css",
+    "main.js": "/workflow-display/static/js/main.62d1edee.chunk.js",
+    "main.js.map": "/workflow-display/static/js/main.62d1edee.chunk.js.map",
+    "runtime-main.js": "/workflow-display/static/js/runtime-main.8ac48248.js",
+    "runtime-main.js.map": "/workflow-display/static/js/runtime-main.8ac48248.js.map",
+    "static/js/2.3cca194a.chunk.js": "/workflow-display/static/js/2.3cca194a.chunk.js",
+    "static/js/2.3cca194a.chunk.js.map": "/workflow-display/static/js/2.3cca194a.chunk.js.map",
+    "static/js/3.917451e3.chunk.js": "/workflow-display/static/js/3.917451e3.chunk.js",
+    "static/js/3.917451e3.chunk.js.map": "/workflow-display/static/js/3.917451e3.chunk.js.map",
+    "index.html": "/workflow-display/index.html",
+    "static/css/main.69971e0a.chunk.css.map": "/workflow-display/static/css/main.69971e0a.chunk.css.map",
+    "static/js/2.3cca194a.chunk.js.LICENSE.txt": "/workflow-display/static/js/2.3cca194a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ac48248.js",
+    "static/js/2.3cca194a.chunk.js",
+    "static/css/main.69971e0a.chunk.css",
+    "static/js/main.62d1edee.chunk.js"
+  ]
+}
