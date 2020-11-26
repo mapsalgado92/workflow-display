@@ -1,0 +1,32 @@
+.branch-wrapper {
+    width: 60vw;
+    margin: 15px;
+    text-align: justify;
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.branch-button {
+    border-radius: 50%;
+    border: solid 5px;
+    margin: auto 10px;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    font-size: auto;
+}
+.branch-button:hover{
+    background-color: rgb(202, 192, 192);
+}
+.branch-button:focus {
+    outline: none;
+}
+
+.branch-text {
+    color: white;
+    margin: 0px 20px;
+}
+

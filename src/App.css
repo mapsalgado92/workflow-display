@@ -1,0 +1,37 @@
+.App {
+  text-align: left;
+  min-height: 100vh;
+  min-width: 100vw;
+  margin: 0px;
+  padding: 0px 0px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Quantico', sans-serif;
+  background-color: rgb(231, 230, 212);
+}
+
+#app-title {
+  margin: 15px;
+  font-family: 'Black Ops One', cursive;
+}
+
+#return {
+  align-self: right;
+  padding: 0px;
+  font-size: 20px;
+  width:80px;
+  margin: 20px;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 1px 2px 2px 1px black;
+  font-size: 30px;
+}
+
+
+#return:hover{
+  background-color: rgb(199, 190, 190);
+}
+
+#return:focus{
+  outline: none;
+}

@@ -1,0 +1,28 @@
+.step-wrapper {
+    width: 80vw;
+    margin: 15px;
+    text-align: justify;
+    border-radius: 15px;
+    background-color: rgb(194, 0, 0);
+    box-shadow: 1px 1px 2px 2px black;
+    display: flex;
+    flex-direction: column;
+}
+
+.step-title {
+    font-size: 20px;
+    margin: 0px 0px -15px 0;
+    padding: 0px 20px;
+    
+    background-color: rgb(44, 37, 37);
+    border-radius: 15px 15px 0px 0px;
+    color: white;
+}
+
+.step-detail {
+    font-size: 15px;
+    margin: 15px 0px 5px 0px;
+    padding: 0px 20px;
+    white-space: pre-wrap;
+    color: white;
+}
